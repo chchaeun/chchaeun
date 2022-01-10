@@ -1,6 +1,6 @@
 <div align="center">
   <h2>안녕하세요 프론트엔드 개발자 김채은입니다. 🙇‍♀️</h2>
-  <br>
+  
   <h4>⚔ STACK</h4>
 
   <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
