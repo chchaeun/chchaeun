@@ -17,5 +17,4 @@
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chchaeun)](https://github.com/chchaeun/velog-readme-stats)
 
-  블로그 이사 중 ... 🚚🚛
  </div>
