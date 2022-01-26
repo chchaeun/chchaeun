@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   
   <br>
-  <h4>🐾 개발새발.log</h4>
+  <h4>🐾 Blog</h4>
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chchaeun)](https://github.com/chchaeun/velog-readme-stats)
 
