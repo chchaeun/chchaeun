@@ -15,6 +15,6 @@
   <br>
   <h4>🐾 Blog</h4>
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chchaeun)](https://velog-readme-stats.vercel.app/api/redirect?name=chchaeun&tag=github)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chchaeun)](https://velog-readme-stats.vercel.app/api/redirect?name=chchaeun)
 
  </div>
