@@ -2,7 +2,7 @@
   <h2>배워서 남주는 개발자 김채은입니다. 🙇‍♀️</h2>
   <h4>Experience</h4>
   <ul>
-    <li>SW Maestro, 13th</li>
+    <li>13th SW Maestro</li>
     <li>Department of Software, Dankook University</li>
   </ul>
   <h4>Tech Stack</h4>
