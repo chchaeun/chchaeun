@@ -2,8 +2,9 @@
   <h2>배워서 남주는 개발자 김채은입니다. 🙇‍♀️</h2>
   <h4>Experience</h4>
   <ul>
-    <li>13th SW Maestro</li>
-    <li>Department of Software, Dankook University</li>
+    <li>SW마에스트로 13기 (2022. 04 ~) </li>
+    <li>단국대학교 부속 소프트웨어 고등학교 웹 개발 반 강사 (2021. 04 ~ 2021. 12)</li>
+    <li>단국대학교 소프트웨어학과 (2019. 03 ~)</li>
   </ul>
   <h4>Tech Stack</h4>
 
