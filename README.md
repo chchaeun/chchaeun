@@ -1,4 +1,3 @@
-<div>
   <h2>배워서 남주는 개발자 김채은입니다. 😄</h2>
   <h4>Experience</h4>
   <ul>
@@ -30,4 +29,4 @@
     <li><a href="https://velog.io/@chchaeun/series/%EC%95%BD%EC%86%8D%EC%9D%84-%EC%8B%AC%ED%94%8C%ED%95%98%EA%B2%8C-%ED%94%84%EB%A1%9C%EB%AF%B8%EC%84%9C">약속을 심플하게, 프로미서</a></li>
     <li><a href="https://velog.io/@chchaeun/series/Unsplash-API%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-E-Commerce">Unsplash로 만드는 E-Commerce</a></li>
   </ul>
-</div>
+
