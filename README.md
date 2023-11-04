@@ -21,3 +21,7 @@
     <li><a href="https://velog.io/@chchaeun/series/Unsplash-API%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-E-Commerce">Unsplash로 만드는 E-Commerce</a></li>
   </ul>
 
+  <h4><a>Portfolio</a></h4>
+  <ul>
+    <li><a href="https://github.com/chchaeun/portfolio/blob/main/porfolio_kimchaeeun.pdf">Link</a></li>
+  </ul>
