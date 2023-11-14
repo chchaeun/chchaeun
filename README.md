@@ -23,5 +23,5 @@
 
   <h4><a>Portfolio</a></h4>
   <ul>
-    <li><a href="https://drive.google.com/file/d/1_NJMbRM6PYvnhDaIvPJua5Ohmn2dhNNo/view?usp=sharing)https://drive.google.com/file/d/1_NJMbRM6PYvnhDaIvPJua5Ohmn2dhNNo/view?usp=sharing" target="_blank">바로가기</a></li>
+    <li><a href="https://drive.google.com/file/d/1_NJMbRM6PYvnhDaIvPJua5Ohmn2dhNNo/view?usp=sharing)https://drive.google.com/file/d/1_NJMbRM6PYvnhDaIvPJua5Ohmn2dhNNo/view?usp=sharing" target="_blank">Link</a></li>
   </ul>
