@@ -24,5 +24,5 @@
 
   <h4><a>Portfolio</a></h4>
   <ul>
-    <li><a href="https://drive.google.com/file/d/1_NJMbRM6PYvnhDaIvPJua5Ohmn2dhNNo/view?usp=sharing)https://drive.google.com/file/d/1_NJMbRM6PYvnhDaIvPJua5Ohmn2dhNNo/view?usp=sharing" target="_blank">Link</a></li>
+    <li><a href="https://www.canva.com/design/DAF1uMS1cic/KMYtoZfnpBEgRhuludDNSA/view?utm_content=DAF1uMS1cic&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Link</a></li>
   </ul>
