@@ -1,6 +1,6 @@
   <h2>배워서 남주는 개발자 김채은입니다. 😄</h2>
   
-  <h4><a href="https://www.canva.com/design/DAF1uMS1cic/KMYtoZfnpBEgRhuludDNSA/view?utm_content=DAF1uMS1cic&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">🔗 Portfolio</a></li>
+  <h4><a href="https://chchaeun.notion.site/c034216962e34bc79271dd46b3db5078" target="_blank">🔗 Résumé</a></li>
   </h4>
   
   <h4>Experience</h4>
