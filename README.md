@@ -1,8 +1,5 @@
   <h2>배워서 남주는 개발자 김채은입니다. 😄</h2>
   
-  <h4><a href="https://chchaeun.notion.site/c034216962e34bc79271dd46b3db5078" target="_blank">🔗 Résumé</a></li>
-  </h4>
-  
   <h4>Experience</h4>
   <ul>
     <li>프로그래머스 데브코스 3기 멘토 (2024. 06 ~) </li>
